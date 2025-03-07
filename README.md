@@ -2,14 +2,18 @@
 
 ![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
 
-### [🌟 Become a top 1% Next.js developer in only one course](https://jsmastery.pro/next15)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+## Here is the screen recording for the final cryptoverse dashboard..
+https://drive.google.com/file/d/1qpnHcvYTzPvcCBwNr1wEm-VT8eSLByvl/view?usp=sharing
 
-In this video, we will create a cryptocurrency app. We're going to use React and multiple APIs powered by https://rapidapi.com.
 
-By the end of this video, you will become the master of working with APIs.
+## Team Members:
+1. Jayasri
+2. Danusa
+3. Poojithha
+4. Vishali
+5. Yuvasri
+
+
 "# Final_Project" 
 "# Final" 
